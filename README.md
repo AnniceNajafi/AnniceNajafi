@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Welcome to Annice's Github
+![Annice's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnniceNajafi&show_icons=true&locale=en&theme=dark&rank_icon=github)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnniceNajafi&layout=donut-vertical&theme=dark)](https://github.com/AnniceNajafi/github-readme-stats)
 <!--
 **AnniceNajafi/AnniceNajafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
